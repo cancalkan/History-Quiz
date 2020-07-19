@@ -1,0 +1,161 @@
+[{
+    "question": "Where did the Great Fire of London begin, on 2 September 1666?",
+    "choice1": "In Thomas Farriner’s bakery on Pudding Lane ",
+    "choice2": "Bıg Ben",
+    "choice3": "St. Paul's Cathedral",
+    "choice4": "Tower of London",
+    "answer": 1
+},
+{
+   "question": "In World War 2 During Operation D-Day, Where Allied troops invaded ?",
+    "choice1": "The Sudetenland",
+    "choice2": "The Rhineland",
+    "choice3": "Normandy",
+    "choice4": "The Potomac",
+    "answer": 3
+},
+{
+    "question": "Which part of Berlin was enclosed by the wall?",
+    "choice1": "East",
+    "choice2": "South",
+    "choice3": "North",
+    "choice4": "West",
+    "answer": 4
+},
+{
+    "question": "Which  is not one of codenames used by Allied forces on D-Day?",
+    "choice1": "Utah",
+    "choice2": "Seattle",
+    "choice3": "Omaha",
+    "choice4": "Gold",
+    "answer": 2
+},
+{
+    "question": "What scandal forced U.S. President Richard Nixon to resign in 1974?",
+    "choice1": "Iran Contra",
+    "choice2": "Watergate",
+    "choice3": "Lewinsky",
+    "choice4": "Whitewater",
+    "answer": 2
+},
+{
+    "question": "Along with the United States, what other world power was a major player in the War of 1812?",
+    "choice1": "Great Britain",
+    "choice2": "Italy",
+    "choice3": "Ottoman Empire",
+    "choice4": "France",
+    "answer": 1
+},
+{
+    "question": "The Cuban Revolution led to the rise of what dictator?",
+    "choice1": "Rajel Trujilo",
+    "choice2": "Augusto Pinochet",
+    "choice3": "Che Guevera",
+    "choice4": "Fidel Castro",
+    "answer": 4
+},
+{
+    "question": "Who was the first female prime minister of Britain?",
+    "choice1": "Margaret Thatcher",
+    "choice2": "Florence Nightingale",
+    "choice3": "Jane Austen",
+    "choice4": "Queen Elizabeth II",
+    "answer": 1
+},
+{
+    "question": "What charter was passed by King John of England in 1215?",
+    "choice1": "Mayflower Compact",
+    "choice2": "Quartering Act",
+    "choice3": "Magna Carta",
+    "choice4": "Stamp Act",
+    "answer": 3
+},
+{
+    "question": "The Reign of Terror was a period during which major social  event?",
+    "choice1": "American Revolution",
+    "choice2": "Hatitian Revolution",
+    "choice3": "Cuban Revolution",
+    "choice4": "French Revolution",
+    "answer": 4
+},
+{
+    "question": "What military leader, rose to power during the French Revolution?",
+    "choice1": "Louis XVI",
+    "choice2": "Napoleon Bonaparte",
+    "choice3": "Maximilien de Robespierre",
+    "choice4": "Marquis de Lafayette",
+    "answer": 2
+},
+{
+    "question": "In which year did World War I start?",
+    "choice1": "1912",
+    "choice2": "1913",
+    "choice3": "1914",
+    "choice4": "1915",
+    "answer": 3
+},
+{
+    "question": "The Protestant Reformation was started by whom?",
+    "choice1": "Francis Bacon",
+    "choice2": "Voltaire",
+    "choice3": "John Calvin",
+    "choice4": "Martin Luther",
+    "answer": 4
+},
+{
+    "question": "Eva Peron was the first lady of what country?",
+    "choice1": "Argentina",
+    "choice2": "Peru",
+    "choice3": "Brazil",
+    "choice4": "Colombia",
+    "answer": 1
+},
+{
+    "question": "Which of these men was not an important figure during the Renaissance?",
+    "choice1": "Adam Smith",
+    "choice2": "Michelangelo",
+    "choice3": "Francis Bacon",
+    "choice4": "Leonardo da Vinci",
+    "answer": 1
+},
+{
+    "question": "Who was responsible for liberating much of South America?",
+    "choice1": "Agustin de Iturbide",
+    "choice2": "Simon Bolivar",
+    "choice3": "Manuel Noriega",
+    "choice4": "Charles III",
+    "answer": 2
+},
+{
+    "question": "Which Roman Emperor's Edict of Milan made Christianity legal?",
+    "choice1": "Augustus",
+    "choice2": "Marcus Aurelius",
+    "choice3": "Nero",
+    "choice4": "Constantine",
+    "answer": 4
+},
+{
+    "question": "What was the name of the first computer?",
+    "choice1": "INIAC",
+    "choice2": "CAINE",
+    "choice3": "ENIAC",
+    "choice4": "CNIEC",
+    "answer": 3
+},
+{
+    "question": "What African nation successfully resisted European colonialism in the late 19th century?",
+   "choice1": "Ethiopia",
+    "choice2": "Nigeria",
+    "choice3": "Ghana",
+    "choice4": "Cameroon",
+    "answer": 1
+},
+{
+    "question": " Who wrote The Communist Manifesto?",
+    "choice1": "Karl Marx",
+    "choice2": "both Marx and Engels",
+    "choice3": "Friedrich Engels",
+    "choice4": "Charles Darwin",
+    "answer": 2
+}
+]
