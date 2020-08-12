@@ -39,7 +39,7 @@ getNewQuestion = () => {
 
 
         // end of the page
-        return window.location.assign("end.html");
+        return window.location.assign("/end.html");
 
     }
      //Updating the Progress Bar 

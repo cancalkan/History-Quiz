@@ -112,7 +112,7 @@ h3 {
 }
 #highScoresList{
     list-style: none;
-    padding-left: 0;
+    padding-left: 10px;
     margin-bottom: 2rem;
 
 }
@@ -120,6 +120,10 @@ h3 {
     font-size: 2rem;
     margin-bottom: 0.3rem;
     color: #EAB57F;
+}
+
+#finalScore{
+    font-size: 3.1rem;
 }
 
 .highScore:hover{
